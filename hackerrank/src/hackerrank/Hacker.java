@@ -1,7 +1,5 @@
 package hackerrank;
 
-//These file is the main solution
-
 
 import java.util.Scanner;
 
